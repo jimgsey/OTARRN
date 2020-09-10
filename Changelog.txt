@@ -1,0 +1,141 @@
+
+Resurrection Remix Q Ver 8.6.0 Changelog
+
+
+====================
+     09-10-2020
+====================
+
+
+   * android
+174f75f Track our own sonivox
+
+   * build/make
+d5ee7e4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46 Signed-off-by: Varun Date <date.varun123@gmail.com>
+
+   * external/chromium-webview
+cd830a4 Update Chromium Webview to 85.0.4183.101
+
+   * frameworks/av
+46dac4b Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * frameworks/base
+5534f4fa SystemUI: Fix multiple issues with hiding unprovisioned SIMs
+
+   * frameworks/native
+0f77bde Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * frameworks/opt/net/wifi
+24e7ed5 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * frameworks/opt/telephony
+d97e0e4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46 Signed-off-by: Varun Date <date.varun123@gmail.com>
+
+   * lineage/mirror
+35ee08b Updated to 09-Sep-2020 08:14 UTC
+
+   * packages/apps/Bluetooth
+17c6ee2 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * packages/apps/Contacts
+2afa6df Correct vulnerability when setting pending intents on import/export notifications by setting FLAG_IMMUTABLE
+
+   * packages/apps/Etar
+f239068 Automatic translation import
+
+   * packages/apps/Messaging
+2ee8a70 Fix NoSuchMethodError for getTypeInfo()
+
+   * packages/apps/PermissionController
+7ffcec6 DO NOT MERGE Use permission group definintion if defined in PermissionController
+
+   * packages/apps/Settings
+4cd72df Add guacamoleb maintainer (#1228)
+
+   * packages/providers/MediaProvider
+231fe2a Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * packages/services/Telephony
+c8cada4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * system/bt
+17b01c7 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * system/core
+211b31e Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * system/sepolicy
+0c42801 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
+
+   * tools/repohooks
+5be91ca tools: switch all our tools to python3 shebang
+
+   * vendor/rr
+7435532 extract_utils: Add support for system_ext
+
+====================
+     09-09-2020
+====================
+
+
+   * lineage/scripts
+abe23b3 Update default webview to 85.0.4183.101
+
+   * vendor/qcom/opensource/commonsys/system/bt
+14988e1 Changed HID_DEV_MTU_SIZE from 64 to 512
+
+====================
+     09-08-2020
+====================
+
+
+   * lineage/hudson
+26178e0 Galaxy S5e -> Galaxy Tab S5e
+
+   * lineage/wiki
+609e40a wiki: Add OnePlus 7T Pro (hotdog)
+
+====================
+     09-07-2020
+====================
+
+
+   * build/soong
+e9ce5fe Merge pull request #4 from AdarshGrewal/Q
+
+   * packages/apps/Plugins
+075b39a Extend App volume slider to plugins
+
+   * packages/overlays/Resurrection
+70b05f7 Build HeaderAccent as an overlay
+
+====================
+     09-06-2020
+====================
+
+
+   * packages/apps/CustomDoze
+f20ff01 CustomDoze: Fix FC on devices without tilt sensor
+
+   * vendor/qcom/opensource/commonsys/bluetooth_ext
+72d88e8 Fix compilation with SBC Dual Channel suport
+
+   * vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
+eeb0393 A2DP codec priority [2/3]
+
+====================
+     09-05-2020
+====================
+
+
+====================
+     09-04-2020
+====================
+
+
+   * packages/apps/Updater
+9134320 Updater: Hardcode serverURL
+
+   * packages/services/OmniJaws
+84afeb1 OmniJaws: Let go of the apache http client
+
