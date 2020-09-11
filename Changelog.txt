@@ -3,6 +3,29 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-11-2020
+====================
+
+
+   * device/lineage/atv
+076ade1 Enable bluetooth remote pairing in Setupwraith
+
+   * frameworks/base
+3a3240b0 QsFooter: Fix invisible settings button whe enabled only in Expanded
+
+   * hardware/lineage/interfaces
+ef6609c gnss-legacy: Bring back Beidou
+
+   * packages/apps/Settings
+d9dfbe0 Increase edge lighting count limit to 40
+
+   * packages/overlays/Resurrection
+32c8daf Add Gradient brightness slider styles [1/2]
+
+   * vendor/rr
+099d882 Add brightness slider themes [3/4]
+
+====================
      09-10-2020
 ====================
 
@@ -18,9 +41,6 @@ cd830a4 Update Chromium Webview to 85.0.4183.101
 
    * frameworks/av
 46dac4b Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
-
-   * frameworks/base
-5534f4fa SystemUI: Fix multiple issues with hiding unprovisioned SIMs
 
    * frameworks/native
 0f77bde Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
@@ -49,9 +69,6 @@ f239068 Automatic translation import
    * packages/apps/PermissionController
 7ffcec6 DO NOT MERGE Use permission group definintion if defined in PermissionController
 
-   * packages/apps/Settings
-4cd72df Add guacamoleb maintainer (#1228)
-
    * packages/providers/MediaProvider
 231fe2a Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
 
@@ -69,9 +86,6 @@ c8cada4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
 
    * tools/repohooks
 5be91ca tools: switch all our tools to python3 shebang
-
-   * vendor/rr
-7435532 extract_utils: Add support for system_ext
 
 ====================
      09-09-2020
@@ -106,9 +120,6 @@ e9ce5fe Merge pull request #4 from AdarshGrewal/Q
    * packages/apps/Plugins
 075b39a Extend App volume slider to plugins
 
-   * packages/overlays/Resurrection
-70b05f7 Build HeaderAccent as an overlay
-
 ====================
      09-06-2020
 ====================
@@ -127,15 +138,4 @@ eeb0393 A2DP codec priority [2/3]
      09-05-2020
 ====================
 
-
-====================
-     09-04-2020
-====================
-
-
-   * packages/apps/Updater
-9134320 Updater: Hardcode serverURL
-
-   * packages/services/OmniJaws
-84afeb1 OmniJaws: Let go of the apache http client
 
