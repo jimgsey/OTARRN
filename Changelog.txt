@@ -6,6 +6,9 @@ Resurrection Remix Q Ver 8.6.0 Changelog
      09-11-2020
 ====================
 
+   * Added Lawnchair v2.1-2627. Now you could choose your launchair.
+   
+   * Change kernel to 4.4.234-EAS_PELT-SDM660-LA.UM.8.2.r2-02500#2 Fri Sep 11 10:04:31 CEST 2020
 
    * device/lineage/atv
 076ade1 Enable bluetooth remote pairing in Setupwraith
@@ -36,9 +39,6 @@ d9dfbe0 Increase edge lighting count limit to 40
    * build/make
 d5ee7e4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46 Signed-off-by: Varun Date <date.varun123@gmail.com>
 
-   * external/chromium-webview
-cd830a4 Update Chromium Webview to 85.0.4183.101
-
    * frameworks/av
 46dac4b Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
 
@@ -50,9 +50,6 @@ cd830a4 Update Chromium Webview to 85.0.4183.101
 
    * frameworks/opt/telephony
 d97e0e4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46 Signed-off-by: Varun Date <date.varun123@gmail.com>
-
-   * lineage/mirror
-35ee08b Updated to 09-Sep-2020 08:14 UTC
 
    * packages/apps/Bluetooth
 17c6ee2 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
@@ -84,16 +81,22 @@ c8cada4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
    * system/sepolicy
 0c42801 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46
 
-   * tools/repohooks
-5be91ca tools: switch all our tools to python3 shebang
-
 ====================
      09-09-2020
 ====================
 
 
+   * external/chromium-webview
+cd830a4 Update Chromium Webview to 85.0.4183.101
+
+   * lineage/mirror
+35ee08b Updated to 09-Sep-2020 08:14 UTC
+
    * lineage/scripts
 abe23b3 Update default webview to 85.0.4183.101
+
+   * tools/repohooks
+5be91ca tools: switch all our tools to python3 shebang
 
    * vendor/qcom/opensource/commonsys/system/bt
 14988e1 Changed HID_DEV_MTU_SIZE from 64 to 512
@@ -103,12 +106,6 @@ abe23b3 Update default webview to 85.0.4183.101
 ====================
 
 
-   * lineage/hudson
-26178e0 Galaxy S5e -> Galaxy Tab S5e
-
-   * lineage/wiki
-609e40a wiki: Add OnePlus 7T Pro (hotdog)
-
 ====================
      09-07-2020
 ====================
@@ -117,11 +114,22 @@ abe23b3 Update default webview to 85.0.4183.101
    * build/soong
 e9ce5fe Merge pull request #4 from AdarshGrewal/Q
 
+   * lineage/hudson
+26178e0 Galaxy S5e -> Galaxy Tab S5e
+
+   * lineage/wiki
+609e40a wiki: Add OnePlus 7T Pro (hotdog)
+
+====================
+     09-06-2020
+====================
+
+
    * packages/apps/Plugins
 075b39a Extend App volume slider to plugins
 
 ====================
-     09-06-2020
+     09-05-2020
 ====================
 
 
@@ -133,9 +141,4 @@ f20ff01 CustomDoze: Fix FC on devices without tilt sensor
 
    * vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
 eeb0393 A2DP codec priority [2/3]
-
-====================
-     09-05-2020
-====================
-
 
