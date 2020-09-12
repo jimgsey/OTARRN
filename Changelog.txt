@@ -3,24 +3,73 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-12-2020
+====================
+
+   * Update kernel to 4.4.235
+   
+   * android
+e2108d0 readme:Update FOD-ext commit
+
+   * frameworks/base
+59410fd1 fixup - base: do not use new lockscreen layout for bypass
+
+   * packages/apps/Camera2
+3679c8c Automatic translation import
+
+   * packages/apps/Eleven
+5937b1e Automatic translation import
+
+   * packages/apps/Etar
+f2e6416 Automatic translation import
+
+   * packages/apps/Gallery2
+2777413 Automatic translation import
+
+   * packages/apps/Jelly
+cc8a1e9 Automatic translation import
+
+   * packages/apps/Recorder
+767fd3b Automatic translation import
+
+   * packages/apps/Settings
+b85a701 fixup!Maintainers fragment mess
+
+   * packages/apps/Snap
+972ac98 Automatic translation import
+
+   * packages/apps/Trebuchet
+ce2eeb4 Automatic translation import
+
+   * packages/apps/TvSettings
+fbbe74b Automatic translation import
+
+   * packages/inputmethods/LatinIME
+7ae7f65 Automatic translation import
+
+   * packages/resources/devicesettings
+ce90d23 Automatic translation import
+
+   * packages/services/BuiltInPrintService
+ce69440 Automatic translation import
+
+====================
      09-11-2020
 ====================
 
-   * Added Lawnchair v2.1-2627. Now you could choose your launchair.
+
+    * Added Lawnchair v2.1-2627. Now you could choose your launchair.
    
    * Change kernel to 4.4.234-EAS_PELT-SDM660-LA.UM.8.2.r2-02500#2 Fri Sep 11 10:04:31 CEST 2020
 
    * device/lineage/atv
 076ade1 Enable bluetooth remote pairing in Setupwraith
 
-   * frameworks/base
-3a3240b0 QsFooter: Fix invisible settings button whe enabled only in Expanded
-
    * hardware/lineage/interfaces
 ef6609c gnss-legacy: Bring back Beidou
 
-   * packages/apps/Settings
-d9dfbe0 Increase edge lighting count limit to 40
+   * lineage/crowdin
+53cdc08 crowdin: fix _COMMITS_CREATED references
 
    * packages/overlays/Resurrection
 32c8daf Add Gradient brightness slider styles [1/2]
@@ -32,9 +81,6 @@ d9dfbe0 Increase edge lighting count limit to 40
      09-10-2020
 ====================
 
-
-   * android
-174f75f Track our own sonivox
 
    * build/make
 d5ee7e4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46 Signed-off-by: Varun Date <date.varun123@gmail.com>
@@ -56,9 +102,6 @@ d97e0e4 Merge tag 'android-10.0.0_r46' Android 10.0.0 release 46 Signed-off-by: 
 
    * packages/apps/Contacts
 2afa6df Correct vulnerability when setting pending intents on import/export notifications by setting FLAG_IMMUTABLE
-
-   * packages/apps/Etar
-f239068 Automatic translation import
 
    * packages/apps/Messaging
 2ee8a70 Fix NoSuchMethodError for getTypeInfo()
@@ -106,6 +149,9 @@ abe23b3 Update default webview to 85.0.4183.101
 ====================
 
 
+   * lineage/hudson
+26178e0 Galaxy S5e -> Galaxy Tab S5e
+
 ====================
      09-07-2020
 ====================
@@ -113,9 +159,6 @@ abe23b3 Update default webview to 85.0.4183.101
 
    * build/soong
 e9ce5fe Merge pull request #4 from AdarshGrewal/Q
-
-   * lineage/hudson
-26178e0 Galaxy S5e -> Galaxy Tab S5e
 
    * lineage/wiki
 609e40a wiki: Add OnePlus 7T Pro (hotdog)
@@ -125,20 +168,9 @@ e9ce5fe Merge pull request #4 from AdarshGrewal/Q
 ====================
 
 
-   * packages/apps/Plugins
-075b39a Extend App volume slider to plugins
-
-====================
-     09-05-2020
-====================
-
-
    * packages/apps/CustomDoze
 f20ff01 CustomDoze: Fix FC on devices without tilt sensor
 
-   * vendor/qcom/opensource/commonsys/bluetooth_ext
-72d88e8 Fix compilation with SBC Dual Channel suport
-
-   * vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
-eeb0393 A2DP codec priority [2/3]
+   * packages/apps/Plugins
+075b39a Extend App volume slider to plugins
 
