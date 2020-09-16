@@ -3,6 +3,23 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-16-2020
+====================
+
+   * Fixed smart charge
+
+   * frameworks/av
+d71df10 JAudioTrack: fix bitwise evaluation
+
+   * frameworks/base
+8b5ba470 QSFooter: Change default settings button position [1/2]
+
+   * packages/apps/CustomDoze
+107badb AOD: check for default overlay before setting default value
+
+   * packages/apps/Settings
+328ef3a RRtools Qs Settings: put dependency on expand arrow
+====================
      09-14-2020
 ====================
 
