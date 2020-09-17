@@ -3,6 +3,24 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-17-2020
+====================
+
+   * fixed audio BT
+
+   * frameworks/base
+b823e956 VolumeDialog: Fix certain row icon scaling Also set proper margin on app volume row
+
+   * packages/apps/Settings
+8ba3d57 Update VPN footer string
+
+   * packages/apps/Trebuchet
+87d095d Trebuchet: optimization of searching apps in Chinese
+
+   * packages/overlays/Resurrection
+c8c0d3a overlays: Do not dex opt statusbar icon packs
+
+====================
      09-16-2020
 ====================
 
