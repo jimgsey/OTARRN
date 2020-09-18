@@ -3,6 +3,24 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-18-2020
+====================
+
+   * Added 4K video in Youtube
+   
+   * frameworks/base
+ce9f4c98 QsFooter: Fix settings button overlapping on landscape mode when not expanded
+
+   * packages/apps/Settings
+e55a83e Default settings button position again in Qs panel
+
+   * packages/overlays/Resurrection
+7952acf overlays: Add 2 more brightness slider styles [2/3]
+
+   * packages/services/Telephony
+0086f66 Explicitly grant START_ACTIVITIES_FROM_BACKGROUND to com.android.phone.
+
+====================
      09-17-2020
 ====================
 
