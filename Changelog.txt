@@ -3,6 +3,21 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-19-2020
+====================
+
+   * fixed some error with lawnchair 
+
+   * frameworks/base
+0172d46e SystemUI: Hide non-system overlays when biometric prompt is showing
+
+   * frameworks/opt/telephony
+52bb845 Revert "Failed to show hold call when user click swap and merge simultaneously"
+
+   * packages/services/Telephony
+0086f66 Explicitly grant START_ACTIVITIES_FROM_BACKGROUND to com.android.phone.
+
+====================
      09-18-2020
 ====================
 
