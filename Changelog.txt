@@ -3,6 +3,110 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-21-2020
+====================
+
+   * Fixed OTA 
+   
+   * frameworks/base
+c857e9f4 TypeClock it_IT Translation (#281)
+
+   * lineage/mirror
+79577ef Updated to 20-Sep-2020 17:39 UTC
+
+   * packages/apps/AudioFX
+f694fbf Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver
+dcf0d4e Automatic translation import
+
+   * packages/apps/EmergencyInfo
+06696c7 Automatic translation import
+
+   * packages/apps/Etar
+2d2dd48 Automatic translation import
+
+   * packages/apps/Exchange
+975b705 Automatic translation import
+
+   * packages/apps/FlipFlap
+16f43b9 Automatic translation import
+
+   * packages/apps/Gallery2
+071d939 Automatic translation import
+
+   * packages/apps/HTMLViewer
+63b8ddd Automatic translation import
+
+   * packages/apps/Jelly
+4a7621e Automatic translation import
+
+   * packages/apps/ManagedProvisioning
+3d29769 Automatic translation import
+
+   * packages/apps/Nfc
+f882589 Automatic translation import
+
+   * packages/apps/Plugins
+f9eb5d3 AospPanel: Improve touch width
+
+   * packages/apps/Recorder
+dc12887 Automatic translation import
+
+   * packages/apps/SafetyRegulatoryInfo
+683eadc Automatic translation import
+
+   * packages/apps/Settings
+cc5f9c9 RRTools: make Nav category preference follow UI Radius
+
+   * packages/apps/Snap
+910787f Automatic translation import
+
+   * packages/apps/Terminal
+5e45ffa Automatic translation import
+
+   * packages/apps/Trebuchet
+fba0af5 Launcher3: categorize settings
+
+   * packages/apps/TvSettings
+9070f77 Automatic translation import
+
+   * packages/inputmethods/LatinIME
+459a560 Automatic translation import
+
+   * packages/overlays/Resurrection
+dcf0dbe overlays:Add 2 switch styles [2/4]
+
+   * packages/providers/ContactsProvider
+4a7b223 Automatic translation import
+
+   * packages/providers/DownloadProvider
+3a1a700 Automatic translation import
+
+   * packages/resources/devicesettings
+23ba1a9 Automatic translation import
+
+   * packages/wallpapers/LivePicker
+9e87e51 Automatic translation import
+
+   * vendor/rr
+f5bc738 vendor: Add 2 new switch styles [3/4]
+
+====================
+     09-20-2020
+====================
+
+
+   * build/make
+9ea3089 sign_target_apks: Replace update-payload-key.pub.pem in RECOVERY as well
+
+   * build/soong
+deeed77 Add support for macOS 11 SDK
+
+   * lineage/wiki
+d533b89 wiki: Assign page.title when device.codename is empty
+
+====================
      09-19-2020
 ====================
 
