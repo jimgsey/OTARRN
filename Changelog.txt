@@ -3,6 +3,26 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-22-2020
+====================
+
+
+   * device/rr/sepolicy
+bae5a63 selinux: Introduce Applock [3/3]
+
+   * frameworks/base
+a99893ab Fixed hours order (#283)
+
+   * lineage/wiki
+b5b0f97 wiki: devices: Require 10 on dynamic retrofit Pixel devices
+
+   * packages/apps/Plugins
+d84321b Plugins: Add Volume panel enter animations [3/3]
+
+   * packages/apps/Settings
+bbbecdc FOD Settings: Remove unused search keys
+
+====================
      09-21-2020
 ====================
 
