@@ -3,6 +3,20 @@ Resurrection Remix Q Ver 8.6.0 Changelog
 
 
 ====================
+     09-23-2020
+====================
+
+
+   * android
+debf55c Update ReadME
+
+   * frameworks/base
+575081cc Accessibility: use INPUT SOURCE_NAVIGATION_BAR
+
+   * packages/apps/TvSettings
+2558f48 Add rooted development option
+
+====================
      09-22-2020
 ====================
 
