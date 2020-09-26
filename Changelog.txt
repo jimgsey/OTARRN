@@ -1,6 +1,17 @@
+Resurrection Remix Q Ver 8.6.1 Changelog
 
-Resurrection Remix Q Ver 8.6.0 Changelog
 
+====================
+     09-26-2020
+====================
+
+   * OTA
+   
+   * frameworks/base
+604a6ea6 core: Move context-aware Bluetooth airplane mode string for translations
+
+   * packages/apps/Settings
+0b4fcdb Update device_maintainers_fragment.xml
 
 ====================
      09-25-2020
