@@ -2,6 +2,33 @@ Resurrection Remix Q Ver 8.6.1 Changelog
 
 
 ====================
+     09-29-2020
+====================
+
+   * Fix error with audio
+   
+   * android
+43078ba track RR wallpapers
+
+   * frameworks/base
+d668859b base: Add ability to set custom image in Settings spacer [1/2]
+
+   * hardware/qcom-caf/msm8974/media
+f4c68e8 mm-video: remove hevc sw decoder files
+
+   * lineage/mirror
+b73478c Updated to 29-Sep-2020 04:55 UTC
+
+   * packages/apps/RRWallpapers
+9bd7d3c RRWallpapers: kill holo and use cardview
+
+   * packages/apps/Settings
+4454685 Edit a string
+
+   * vendor/rr
+778ce7f Optionally build RR wallpapers
+
+====================
      09-28-2020
 ====================
 
