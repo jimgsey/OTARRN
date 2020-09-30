@@ -2,6 +2,24 @@ Resurrection Remix Q Ver 8.6.1 Changelog
 
 
 ====================
+     09-30-2020
+====================
+
+   * Added translation into Spanish
+
+   * frameworks/base
+a7c9428c FODAnimation: Add dashlane to blacklist animation
+
+   * lineage/hudson
+91f115c Regenerate device dependency mappings
+
+   * packages/apps/Contacts
+d80785c Contacts: Fix light dropdown lists on dark theme
+
+   * packages/apps/Settings
+789d854 Update FOD anim string
+
+====================
      09-29-2020
 ====================
 
