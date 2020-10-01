@@ -1,10 +1,87 @@
 Resurrection Remix Q Ver 8.6.1 Changelog
 
 
+===================
+     10-01-2020
+====================
+
+   * Fix Spanish strings
+   
+   * device/rr/sepolicy
+b7bf057 common: Remove no longer needed uncrypt rule
+
+   * lineage/hudson
+630f561 hudson: Add davinci
+
+   * packages/apps/AudioFX
+887ee80 Automatic translation import
+
+   * packages/apps/Bluetooth
+56b4c58 Automatic translation import
+
+   * packages/apps/Camera2
+f96f302 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver
+75067ed Automatic translation import
+
+   * packages/apps/CertInstaller
+af3289a Automatic translation import
+
+   * packages/apps/Contacts
+d986266 Automatic translation import
+
+   * packages/apps/Dialer
+e19c2c0 Dialer: Fix call log refresh post call
+
+   * packages/apps/Email
+66c6d3f Automatic translation import
+
+   * packages/apps/Etar
+15e694a Automatic translation import
+
+   * packages/apps/ExactCalculator
+f23a2c2 Automatic translation import
+
+   * packages/apps/Gallery2
+3e48055 Automatic translation import
+
+   * packages/apps/HTMLViewer
+15fa6be Automatic translation import
+
+   * packages/apps/KeyChain
+f56649e Automatic translation import
+
+   * packages/apps/ManagedProvisioning
+1d0d7d7 Automatic translation import
+
+   * packages/apps/Messaging
+e4d0502 Messaging: Add Read later option instead of duplicate " Reply via sms"
+
+   * packages/apps/PhoneCommon
+ad41fb0 Automatic translation import
+
+   * packages/apps/RRWallpapers
+c1cfe61 Add RR nougat red
+
+   * packages/apps/Settings
+2602066 update lavender maintainer
+
+   * packages/apps/Tag
+1b66b0b Automatic translation import
+
+   * system/netd
+24618f3 netd: Support wildcards in cached hosts file
+
+   * system/sepolicy
+2c975b5 Fix sepolicy_tests on Mac 10.15
+
 ====================
      09-30-2020
 ====================
 
+   * Kernel HALCYON-HMP-LA.UM.8.2.r2-02500
+   
    * Added translation into Spanish
 
    * frameworks/base
