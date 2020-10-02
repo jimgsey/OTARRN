@@ -1,7 +1,25 @@
 Resurrection Remix Q Ver 8.6.1 Changelog
 
 
-===================
+====================
+     10-02-2020
+====================
+
+   * Fix error with mic (assistant)
+   
+   * android
+bbcaefe README: update fod-ext commit
+
+   * frameworks/base
+b17a527d FODCircleView: Handle more animation visibilty cases
+
+   * lineage/wiki
+8402877 Adding chil360 as osprey maintainer
+
+   * packages/apps/Settings
+1df42fe RRtools:Use a better summary for slim recents
+
+====================
      10-01-2020
 ====================
 
