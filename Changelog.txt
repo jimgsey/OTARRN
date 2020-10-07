@@ -1,8 +1,33 @@
-Resurrection Remix Q Ver 8.6.1 Changelog
+Resurrection Remix Q Ver 8.6.2 Changelog
 
 
 ====================
-     10-05-2020
+     10-07-2020
+====================
+
+   * Added dirac
+   
+   * Remove QuickstepSwitcher 
+   
+   * Fixed problem with Lawnchair
+   
+   * frameworks/base
+317243e6 base: Fix lockscreen weather default value[2/2]
+
+   * lineage/wiki
+ccb5968 wiki: Add davinci
+
+   * packages/apps/Messaging
+e68c375 strings: Move diss to rr_strings
+
+   * packages/apps/Settings
+16d55d0 RRtools: Fix lockscreen weather default values [1/2]
+
+   * vendor/rr
+473b532 Bump version number [1/2]
+
+====================
+     10-06-2020
 ====================
 
 
