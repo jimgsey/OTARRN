@@ -2,6 +2,29 @@ Resurrection Remix Q Ver 8.6.2 Changelog
 
 
 ====================
+     10-08-2020
+====================
+
+   * October Patch Security 
+   
+   * Update kernel to 4.4.238
+   
+   * build/make
+58fa8ce backuptool: do not unmap dynamic partition after finished
+
+   * frameworks/base
+317243e6 base: Fix lockscreen weather default value[2/2]
+
+   * lineage/hudson
+64f04c0 Revert "hudson: Drop S4 Sprint (jfltespr)"
+
+   * lineage/wiki
+611cf7c Revert "wiki: devices: jfltespr: Reflect discontinuation of builds"
+
+   * packages/apps/Settings
+bae5ec8 RRTools: fix running services icon inverted summary
+
+====================
      10-07-2020
 ====================
 
