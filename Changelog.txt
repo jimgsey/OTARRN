@@ -1,5 +1,43 @@
 Resurrection Remix Q Ver 8.6.2 Changelog
 
+====================
+     10-12-2020
+====================
+
+   * Add custom Tianma burn-in display.
+   
+   * Rewrite dirac and amplify sound
+   
+   * frameworks/base
+87975e66 QS: change some default tiles again
+
+   * packages/apps/LineageParts
+d38a840 Add icon to wake gesture
+
+   * packages/apps/Settings
+fb30ddc rr_strings: Update FOD animation string
+
+====================
+     10-11-2020
+====================
+
+
+   * lineage/mirror
+41e2cc8 Updated aosp-minimal to 10-Oct-2020 12:01 UTC
+
+====================
+     10-10-2020
+====================
+
+
+   * device/rr/sepolicy
+d58d677 sepolicy: Introduce automated DC Dimming
+
+   * lineage/hudson
+0c6dab3 updater: Fix broken json
+
+   * lineage/wiki
+0eef5a8 wiki: Add Nokia 6.1 (PL2)
 
 ====================
      10-08-2020
