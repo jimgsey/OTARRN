@@ -1,10 +1,28 @@
 Resurrection Remix Q Ver 8.6.2 Changelog
 
 ====================
+     10-13-2020
+====================
+
+   * Changed custom Tianma burn-in display
+   
+   * frameworks/base
+e447564c [DO NOT MERGE] VibratorService: bypass AppOps check
+
+   * packages/apps/PermissionController
+fd02eec PermissionController: force the hub
+
+   * packages/apps/Plugins
+42bb613 Plugins: Fix app icon sizes
+
+   * packages/apps/Settings
+bc9254d BatteryMeterView: Fix issue with DPI
+
+====================
      10-12-2020
 ====================
 
-   * Add custom Tianma burn-in display.
+   * Add custom Tianma burn-in display
    
    * Rewrite dirac and amplify sound
    
