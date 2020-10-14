@@ -1,6 +1,18 @@
 Resurrection Remix Q Ver 8.6.2 Changelog
 
 ====================
+     10-14-2020
+====================
+   
+   * Changed to 230 in Tianma burn-in display
+   
+   * packages/apps/LineageParts
+5db40cb LineageParts: Add some icons
+
+   * packages/overlays/Resurrection
+2ba1cdf overlays: Stock Volume dialog tint styles [2/4]
+
+====================
      10-13-2020
 ====================
 
