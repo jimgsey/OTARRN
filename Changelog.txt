@@ -1,6 +1,54 @@
 Resurrection Remix Q Ver 8.6.2 Changelog
 
 ====================
+     10-15-2020
+====================
+
+   * DeviceParts: added Torch settings
+   
+   * frameworks/base
+86f54e15 SystemUI: fix gaming-mode tile failed to action on/off itself (#288)
+
+   * lineage/mirror
+f8d0a3f Updated aosp-minimal to 15-Oct-2020 12:01 UTC
+
+   * packages/apps/Etar
+7cfefcd Automatic translation import
+
+   * packages/apps/Messaging
+e657521 Messaging: Enable heads up by default
+
+   * packages/apps/Nfc
+3b393bf Automatic translation import
+
+   * packages/apps/Settings
+f510f44 RR tools: separate applying systemui and settings icons from RR themes [2/2]
+
+   * packages/apps/Stk
+7fc8734 Automatic translation import
+
+   * packages/apps/Trebuchet
+1f8713c Automatic translation import
+
+   * packages/apps/TvSettings
+d4b71c5 Automatic translation import
+
+   * packages/inputmethods/LatinIME
+e1cf711 Automatic translation import
+
+   * packages/screensavers/Basic
+526d626 Automatic translation import
+
+   * packages/screensavers/PhotoTable
+b87fd51 Automatic translation import
+
+   * packages/wallpapers/LivePicker
+5b6b44c Automatic translation import
+
+   * vendor/rr
+0030a08 Delete readme
+
+====================
      10-14-2020
 ====================
    
