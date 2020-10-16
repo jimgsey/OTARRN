@@ -1,6 +1,31 @@
 Resurrection Remix Q Ver 8.6.2 Changelog
 
 ====================
+     10-16-2020
+====================
+
+   * DeviceParts: Added Fast Charger USB
+   
+   * DeviceParts: Added Backlight Dimmer
+   
+   * DeviceParts: Added Earpiece gain
+    
+   * frameworks/base
+d985b1d6 Fix Google dialer FC due to missing permissions
+
+   * lineage/mirror
+d6f88f8 Updated aosp-minimal to 16-Oct-2020 12:01 UTC
+
+   * packages/apps/LineageParts
+46c7272 Parts: allow single tap doze to work without depending on ambient display
+
+   * packages/apps/Settings
+5895de9 Fix build
+
+   * packages/services/OmniJaws
+207e10b Omnijaws: widget: Uncouple the temperature from the image
+
+====================
      10-15-2020
 ====================
 
