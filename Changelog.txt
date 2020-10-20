@@ -1,8 +1,59 @@
-Resurrection Remix Q Ver 8.6.2 Changelog
+Resurrection Remix Q Ver 8.6.3 Changelog
+
+====================
+     10-20-2020
+====================
+
+   * Kernel: Added 4.4.239 Predator Stormbreaker 8.9 Stable
+   
+   * frameworks/base
+c9e300ec VolumeDialog: Follow system theme background
+
+   * lineage/wiki
+e335c80 devices: pro1: Fix kernel repo name
+
+   * packages/apps/Settings
+76ed196 Revert "Added missing translation RU (#1248)"
+0922338 Added missing translation RU (#1248)
+
+   * packages/apps/SettingsIntelligence
+2c34338 Allow to disable in fragment search bar bg tint [3/3]
+
+   * packages/overlays/Resurrection
+abce78b overlays: Update pitchblack overlay for volume dialog
+
+====================
+     10-19-2020
+====================
+
+
+   * system/core
+a11b2c2 Modifying /dev/memcg permissions.
+
+   * vendor/rr
+d2bccdb vendor: More searchbar styles [2/4]
+
+====================
+     10-18-2020
+====================
+
+
+   * packages/apps/Trebuchet
+af65ef3 Revert "Provider: Initialize createEmptyRowOnFirstScreen without QSB"
+
+====================
+     10-17-2020
+====================
+
+
+   * lineage/mirror
+69d4251 Updated aosp-minimal to 17-Oct-2020 12:01 UTC
+
+   * packages/apps/TvSettings
+1337f96 Settings: Replace local string res with the ones from the SDK
 
 ====================
      10-16-2020
-====================
 
    * DeviceParts: Added Fast Charger USB
    
