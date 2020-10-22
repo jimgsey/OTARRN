@@ -1,6 +1,29 @@
 Resurrection Remix Q Ver 8.6.3 Changelog
 
 ====================
+     10-22-2020
+====================
+
+   * Added Hosts (no more ads in your apps or browser)
+   
+   * lineage/wiki
+98fc44e wiki: 10 > 10.0
+
+====================
+     10-21-2020
+====================
+
+
+   * build/make
+dcdcc73 Patch hosts to adaway
+
+   * packages/apps/Settings
+4c4e6fa Fix build
+
+   * tools/repohooks
+239625c Add support for automatic fixups to gofmt.
+
+====================
      10-20-2020
 ====================
 
