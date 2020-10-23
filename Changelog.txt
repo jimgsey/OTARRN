@@ -1,5 +1,18 @@
 Resurrection Remix Q Ver 8.6.3 Changelog
 
+   * DeviceParts: Added: Clean Speaker
+   
+   * DeviceParts: Fixed: Fast Charger (now you can uncheck)
+   
+   * Update kernel 4.4.240: Predatos Stormbreaker 9.0 rc 3
+   
+   * lineage/wiki
+1dec518 wiki: Simplify adding a PATH variable on Windows 10
+
+   * packages/apps/Settings Revert "Added translation and bug fixes translation Ru (#1254)"
+923d806245 Added translation and bug fixes translation Ru (#1254)
+c7312f63a3 Add ulysse to Official list (#1253)
+
 ====================
      10-22-2020
 ====================
