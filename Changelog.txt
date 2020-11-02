@@ -1,5 +1,85 @@
 Resurrection Remix Q Ver 8.6.3 Changelog
 
+====================
+     11-02-2020
+====================
+
+   * Rearrange DeviceParts
+    
+   * DeviceParts: add more RU translation
+   
+   * frameworks/base
+9c16d2c4 QSB: Redirect dateview to calender view
+
+   * packages/apps/Plugins
+4acd6c4 MIUIPanel: Fix notification stream
+
+====================
+     11-01-2020
+====================
+
+
+   * android
+c432b5c manifest: Add default gitlab remote (#150)
+
+   * packages/apps/Eleven
+164b27e Automatic translation import
+
+   * packages/apps/Etar
+ad81d36 Automatic translation import
+
+   * packages/apps/Recorder
+da8b2d5 Automatic translation import
+
+   * packages/apps/Snap
+c0f948c Automatic translation import
+
+   * packages/apps/Trebuchet
+d360b16 Automatic translation import
+
+   * packages/inputmethods/LatinIME
+921a67e Automatic translation import
+
+   * packages/resources/devicesettings
+dd1873e Automatic translation import
+
+   * packages/services/BuiltInPrintService
+0700616 Automatic translation import
+
+====================
+     10-31-2020
+====================
+
+   
+   * DeviceParts: Added: TCP Congestion
+ 
+   * DeviceParts: Added: Low Memory Killer
+ 
+   * DeviceParts: Added: MSM Thermal: Core control, VDD Retriction 
+ 
+   * lineage/charter
+c6252b9 charter: Remove exception from hardware codecs for Tegra devices
+
+   * lineage/mirror
+e7fa4ba Updated to 31-Oct-2020 13:37 UTC
+
+   * lineage/wiki
+449cb49 devices: pro1: Promote to 17.1
+
+====================
+     10-30-2020
+====================
+
+
+   * packages/apps/CustomDoze
+4db8917 Merge pull request #1 from K0rtus/Q
+
+   * packages/apps/LineageParts
+ce148ef Merge pull request #2 from K0rtus/patch-1
+
+====================
+     10-23-2020
+====================
    * DeviceParts: Added: Clean Speaker
    
    * DeviceParts: Fixed: Fast Charger (now you can uncheck)
