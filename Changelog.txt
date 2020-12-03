@@ -1,4 +1,22 @@
-Resurrection Remix Q Ver 8.6.3 Changelog
+Resurrection Remix Q Ver 8.6.4 Changelog
+
+====================
+     12-03-2020
+====================
+    
+   * DeviceParts: add Pill-notch
+   
+   * DeviceParts: White and Yellow torch
+    
+   * DeviceParts: add gif and link info
+   
+   * DeviceParts: add gif in slean speaker
+    
+   * DeviceParts: add gif in ambient settings
+   
+   * Fix error with record call
+    
+   * Sync repo
 
 ====================
      11-02-2020
